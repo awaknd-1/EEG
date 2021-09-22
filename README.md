@@ -1,4 +1,4 @@
-# EEG
+# EEG Time-Frequency Anaysis
 
 ## Discrete Wavelet Transform (DWT)
  Time-Frequency decomposition of the raw EEG signals into multiple levels using db4 wavelet. The code can be extended to methods in [1] and [2].
