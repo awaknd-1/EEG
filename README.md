@@ -11,9 +11,8 @@ Normalization of EEG signals in time-frequency domain. Details of why baseline n
  
  
  
- 
- 
- 
+## References
+
 1. Panachakel, J.T., Ramakrishnan, A.G. and Ananthapadmanabha, T.V., 2019, December. Decoding imagined speech using wavelet features and deep neural networks. In 2019 IEEE 16th India Council International Conference (INDICON) (pp. 1-4). IEEE.
 2. Sereshkeh, A.R., Trott, R., Bricout, A. and Chau, T., 2017. EEG classification of covert speech using regularized neural networks. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 25(12), pp.2292-2300.
 3. Cohen, M.X., 2014. Analyzing neural time series data: theory and practice. MIT press.
