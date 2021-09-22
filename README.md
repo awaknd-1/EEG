@@ -8,6 +8,8 @@ Time-Frequency transformation of EEG signals using morlet wavelet transform. For
 
 ## Baseline Normalization
 Normalization of EEG signals in time-frequency domain. Details of why baseline normalization is important refer to [3] and [4].
+
+![this is the image](https://github.com/awaknd-1/EEG/blob/main/BN.png)
  
  
  
