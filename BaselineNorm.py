@@ -1,4 +1,4 @@
-
+import numpy as np
 
 # this function creates the baseline from training spectrograms.
 def baseline(train):
