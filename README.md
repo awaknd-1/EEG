@@ -3,7 +3,7 @@
 ## Time-Frequency Anaysis
 
 ## Discrete Wavelet Transform (DWT)
- Time-Frequency decomposition of the raw EEG signals into multiple levels using db4 wavelet. The code can be extended to methods in [1] and [2].
+ Time-Frequency decomposition of the raw EEG signals into multiple levels using db4 wavelet. The code can be extended to the methods implemented in [1] and [2].
 
 ## Morlet Wavelet
 Time-Frequency transformation of EEG signals using morlet wavelet transform. For detailed information about morelet transform refer to [3].
