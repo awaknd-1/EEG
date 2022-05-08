@@ -1,5 +1,7 @@
 # EEG Analysis
 
+The repository use **MNE-Python** and **Keras** for implementing the framework.
+
 ## Time-Frequency Anaysis
 
 ## Discrete Wavelet Transform (DWT)
